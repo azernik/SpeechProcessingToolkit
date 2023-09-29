@@ -1,0 +1,22 @@
+# Pycharm
+.idea/
+
+# Media
+media/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Packaging
+*.egg-info/
+dist/
+build/
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.cache
